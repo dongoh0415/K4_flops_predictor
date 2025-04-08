@@ -2,3 +2,4 @@ cached check_nodes_cnn.py
 check_nodes_cnn.py
 run_profile.sqlite
 simple_cnn_with_shapes.onnx
+K4_flops_predictor
